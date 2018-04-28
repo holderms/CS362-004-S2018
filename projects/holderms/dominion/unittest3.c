@@ -174,6 +174,41 @@ int main() {
     if(G.numActions != testBase.numActions - 1) printf("Test 3.5 Fail: G.numActions is %d\n", G.numActions);
     if(G.numActions == 0 && G.phase == 0) printf("Test 3.5 Fail: No actions remaining but still in action phase\n");
   }
+
+  //Set up for test 6
+  memcpy(&G, &testBase, sizeof(struct gameState));
+  state = -5;
+
+  printf("----------------------\nUnit Test 3.6 --- bad phase \n");
+  G.phase = 1;
+  if(G.numActions!= 1) G.numActions= 1;
+
+  state = playCard(4, 3, 0, 1, &G);
+
+  if (state == -1)  printf("OK - Unit test 3.6 failed --- invalid phase\n");
+  else if (state == -5 ) printf("Unit test 3.6 State not updated\n");
+  else {
+    printf("FAIL 3.6 - card should not be played\n");
+  }
+
+
+  //Set up for test 7
+  memcpy(&G, &testBase, sizeof(struct gameState));
+  state = -5;
+
+  printf("----------------------\nUnit Test 3.7 --- bad num actions \n");
+
+   G.phase = 0;
+   G.numActions= 0;
+
+  state = playCard(4, 3, 0, 1, &G);
+
+  if (state == -1)  printf("OK - Unit test 3.7 failed --- invalid actions\n");
+  else if (state == -5 ) printf("Unit test 3.7 State not updated\n");
+  else {
+    printf("FAIL 3.7 - card should not be played\n");
+  }
+
   printf("!+++++++++++++++++++++++++++++++++!\n");
   return 0;
 }
