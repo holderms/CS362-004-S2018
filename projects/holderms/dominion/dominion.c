@@ -651,10 +651,11 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
       int z = 1;// this is the counter for the temp hand
       int cardDrawn;
 
-      while(drawntreasure<2){
+      while(drawntreasure < 2){
         if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
           shuffle(currentPlayer, state);
         }
+        //draw card is what updates handCount
         drawCard(currentPlayer, state);
         cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
         if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
@@ -665,8 +666,8 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
           z++;
         }
       }
-      while(z-1>=0){
-        state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+      while(z-1 >= 0){
+        state->discard[currentPlayer][state->discardCount[currentPlayer]++] = temphand[z-1]; // discard all cards in play that have been drawn
         z=z-1;
       }
       return 0;
@@ -914,7 +915,7 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
         return 0;
 
         case smithy:
-          return smithyEffect(state, currentPlayer, handPos);
+        return smithyEffect(state, currentPlayer, handPos);
 
         case village:
         //+1 Card
@@ -1250,7 +1251,8 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
         }
 
         //no second treasure_map found in hand
-        return -1;
+        //TODO not really a failure, should probably return 0 (was -1)
+        return 0;
       }
 
       return -1;
@@ -1331,6 +1333,8 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
       return 0;
     }
 
+    // Updates generally for coins, not for a player specifically
+    // Is ok b/c card are discarded after every turn, no need to retain by player
     int updateCoins(int player, struct gameState *state, int bonus)
     {
       int i;
