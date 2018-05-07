@@ -11,7 +11,7 @@ Random Quiz
 
 char inputChar()
 {
-    char testable[9] = { '[', '(', '{', ' ', 'a', 'x', '}', ')', ']' };
+    char testable[9] = { '[', '(', '{', ' ', 'a', , 'b', 'x', '}', ')', ']' };
     int i = rand() % 9;
     return testable[i];
 }
