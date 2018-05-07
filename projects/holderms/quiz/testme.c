@@ -11,15 +11,15 @@ Random Quiz
 
 char inputChar()
 {
-    char testable[10] = { '[', '(', '{', ' ', 'a',  'b', 'x', '}', ')', ']' };
+    char testable[10] = { '[', '(', '{', ' ', 'a', 'b', 'x', '}', ')', ']' };
     int i = rand() % 10;
     return testable[i];
 }
 
 char *inputString()
 {
-  char * words[7] = {"\0", "nada\0", "reset\0", "rest", "reset", "rese\0", "resett\0"};
-  int i = rand() % 7;
+  char * words[9] = {"\0", "nada\0", "reset\0", "rest", "test", "best", "gray", "rese\0", "resett\0"};
+  int i = rand() % 9;
   return words[i];
 }
 
