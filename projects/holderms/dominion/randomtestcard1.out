@@ -1,3 +1,73 @@
+!____________Random Card Test 1 - Council Room__________!
+Playing council_room
+FAIL 4: CURRENT player cards not added correctly
+Playing council_room
+FAIL 5: CURRENT player cards not added correctly
+Playing council_room
+FAIL 8: CURRENT player cards not added correctly
+Playing council_room
+FAIL 9: CURRENT player cards not added correctly
+Playing council_room
+FAIL 12: CURRENT player cards not added correctly
+Playing council_room
+FAIL 13: CURRENT player cards not added correctly
+Playing council_room
+FAIL 15: CURRENT player cards not added correctly
+Playing council_room
+FAIL 18: CURRENT player cards not added correctly
+Playing council_room
+FAIL 20: CURRENT player cards not added correctly
+Final Game State
+_______________________
+Played cards (For game, not a specific player): 
+	
+Player 0: 
+Current player
+Hand 5: 
+	13	4	2	13	1	
+Deck 3: 
+	4	4	0	
+Discard: 
+	
+Player 1: 
+Hand 0: 
+	
+Deck 7: 
+	1	1	4	4	0	0	4	
+Discard: 
+	0	9	4	4	7	
+Supply Counts
+SCard 0 = 8
+SCard 1 = 8
+SCard 2 = 7
+SCard 3 = 8
+SCard 4 = 44
+SCard 5 = 40
+SCard 6 = 30
+SCard 7 = 9
+SCard 8 = 0
+SCard 9 = 9
+SCard 10 = 8
+SCard 11 = 9
+SCard 12 = 10
+SCard 13 = 8
+SCard 14 = 10
+SCard 15 = 10
+SCard 16 = 8
+
+
+ Failure Counts
+No updates: 0
+Bad discard: 0
+Council player error: 9
+Other player error: 0
+File 'dominion.c'
+Lines executed:53.04% of 560
+Branches executed:51.56% of 417
+Taken at least once:39.57% of 417
+Calls executed:53.68% of 95
+Creating 'dominion.c.gcov'
+
         -:    0:Source:dominion.c
         -:    0:Graph:dominion.gcno
         -:    0:Data:dominion.gcda
