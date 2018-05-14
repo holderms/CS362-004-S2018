@@ -1,0 +1,4075 @@
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Playing smithy
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Playing smithy
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Playing smithy
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Playing smithy
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Playing smithy
+Round: 35
+Round: 36
+Playing smithy
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Playing smithy
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Playing smithy
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Playing smithy
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Playing smithy
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Playing smithy
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Playing smithy
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Playing smithy
+Round: 97
+Round: 98
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Playing smithy
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Playing smithy
+Round: 27
+Round: 28
+Playing smithy
+Round: 29
+Round: 30
+Round: 31
+Playing smithy
+Round: 32
+Playing smithy
+Round: 33
+Round: 34
+Playing smithy
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Playing smithy
+Round: 39
+Round: 40
+Playing smithy
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Playing smithy
+Round: 48
+Playing smithy
+Round: 49
+Round: 50
+Playing smithy
+Round: 51
+Round: 52
+Playing smithy
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Playing smithy
+Round: 59
+Playing smithy
+Round: 60
+Round: 61
+Playing smithy
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Playing smithy
+Round: 69
+Playing smithy
+Round: 70
+Playing smithy
+Round: 71
+Round: 72
+Round: 73
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+Round: 80
+Round: 81
+Round: 82
+Playing smithy
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Round: 92
+Playing smithy
+Round: 93
+Playing smithy
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+FAIL 27: Discarded later card
+FAIL 27: Smithy was not discarded
+Round: 28
+Playing smithy
+FAIL 28: Smithy was not discarded
+Round: 29
+Round: 30
+Round: 31
+Playing smithy
+FAIL 31: Smithy was not discarded
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Playing smithy
+FAIL 35: Smithy was not discarded
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Playing smithy
+Attempting to discard illegal card
+FAIL 40: Smithy was not discarded
+Round: 41
+Round: 42
+Round: 43
+Playing smithy
+FAIL 43: Discarded later card
+FAIL 43: Discarded later card
+FAIL 43: Smithy was not discarded
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Playing smithy
+FAIL 51: Discarded later card
+FAIL 51: Discarded later card
+FAIL 51: Smithy was not discarded
+Round: 52
+Playing smithy
+Attempting to discard illegal card
+FAIL 52: Smithy was not discarded
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Playing smithy
+FAIL 56: Discarded later card
+FAIL 56: Smithy was not discarded
+Round: 57
+Playing smithy
+FAIL 57: Smithy was not discarded
+Round: 58
+Round: 59
+Playing smithy
+FAIL 59: Smithy was not discarded
+Round: 60
+Playing smithy
+Attempting to discard illegal card
+FAIL 60: Smithy was not discarded
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Attempting to discard illegal card
+FAIL 63: Smithy was not discarded
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Playing smithy
+FAIL 67: Smithy was not discarded
+Round: 68
+Playing smithy
+Attempting to discard illegal card
+FAIL 68: Smithy was not discarded
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Playing smithy
+FAIL 76: Discarded later card
+FAIL 76: Discarded later card
+FAIL 76: Discarded later card
+FAIL 76: Smithy was not discarded
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Discarded later card
+FAIL 79: Smithy was not discarded
+Round: 80
+Playing smithy
+FAIL 80: Discarded later card
+FAIL 80: Discarded later card
+FAIL 80: Discarded later card
+FAIL 80: Smithy was not discarded
+Round: 81
+Playing smithy
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Smithy was not discarded
+Round: 82
+Round: 83
+Playing smithy
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Discarded later card
+FAIL 83: Smithy was not discarded
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+FAIL 91: Smithy was not discarded
+Round: 92
+Playing smithy
+FAIL 92: Smithy was not discarded
+Round: 93
+Round: 94
+Playing smithy
+Attempting to discard illegal card
+FAIL 94: Smithy was not discarded
+Round: 95
+Round: 96
+Playing smithy
+Attempting to discard illegal card
+FAIL 96: Smithy was not discarded
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 33
+Played card was not discarded: 24
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Playing smithy
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Playing smithy
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Playing smithy
+Round: 78
+Playing smithy
+Round: 79
+Playing smithy
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Playing smithy
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Playing smithy
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Playing smithy
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Playing smithy
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Playing smithy
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Playing smithy
+Round: 85
+Playing smithy
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Playing smithy
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+Attempting to discard illegal card
+FAIL 33: Smithy was not discarded
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+Attempting to discard illegal card
+FAIL 49: Smithy was not discarded
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+FAIL 53: Smithy was not discarded
+Round: 54
+Playing smithy
+Attempting to discard illegal card
+FAIL 54: Smithy was not discarded
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Round: 74
+Playing smithy
+Attempting to discard illegal card
+FAIL 74: Smithy was not discarded
+Round: 75
+Playing smithy
+FAIL 75: Discarded later card
+FAIL 75: Discarded later card
+FAIL 75: Smithy was not discarded
+Round: 76
+Playing smithy
+FAIL 76: Discarded later card
+FAIL 76: Discarded later card
+FAIL 76: Discarded later card
+FAIL 76: Smithy was not discarded
+Round: 77
+Playing smithy
+FAIL 77: Discarded later card
+FAIL 77: Smithy was not discarded
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+FAIL 88: Smithy was not discarded
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Playing smithy
+Attempting to discard illegal card
+FAIL 93: Smithy was not discarded
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+Playing smithy
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Smithy was not discarded
+
+ Failure Counts
+Bad discard 2nd Half: 13
+Played card was not discarded: 11
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Playing smithy
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Playing smithy
+Round: 21
+Playing smithy
+Round: 22
+Round: 23
+Playing smithy
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Playing smithy
+Round: 33
+Playing smithy
+Round: 34
+Playing smithy
+Round: 35
+Round: 36
+Playing smithy
+Round: 37
+Round: 38
+Round: 39
+Playing smithy
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Playing smithy
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+Round: 50
+Round: 51
+Round: 52
+Playing smithy
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Playing smithy
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Playing smithy
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Round: 77
+Playing smithy
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+Round: 82
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Playing smithy
+Round: 23
+Round: 24
+Round: 25
+Playing smithy
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Playing smithy
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Playing smithy
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Playing smithy
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Playing smithy
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Playing smithy
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+Round: 80
+Round: 81
+Round: 82
+Playing smithy
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+FAIL 27: Discarded later card
+FAIL 27: Discarded later card
+FAIL 27: Smithy was not discarded
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Playing smithy
+Attempting to discard illegal card
+FAIL 43: Smithy was not discarded
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Playing smithy
+FAIL 59: Smithy was not discarded
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+FAIL 81: Smithy was not discarded
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+FAIL 85: Smithy was not discarded
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+FAIL 97: Smithy was not discarded
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 2
+Played card was not discarded: 7
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Playing smithy
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Playing smithy
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Playing smithy
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Playing smithy
+Round: 26
+Round: 27
+Playing smithy
+Round: 28
+Round: 29
+Playing smithy
+Round: 30
+Round: 31
+Playing smithy
+Round: 32
+Round: 33
+Playing smithy
+Round: 34
+Round: 35
+Playing smithy
+Round: 36
+Round: 37
+Playing smithy
+Round: 38
+Round: 39
+Playing smithy
+Round: 40
+Round: 41
+Playing smithy
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Playing smithy
+Round: 46
+Round: 47
+Playing smithy
+Round: 48
+Round: 49
+Playing smithy
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Playing smithy
+Round: 58
+Round: 59
+Playing smithy
+Round: 60
+Round: 61
+Playing smithy
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Playing smithy
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Playing smithy
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Playing smithy
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Playing smithy
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Playing smithy
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Playing smithy
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Round: 55
+Round: 56
+Playing smithy
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Playing smithy
+Round: 67
+Round: 68
+Playing smithy
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Playing smithy
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Playing smithy
+Round: 81
+Playing smithy
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Playing smithy
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Playing smithy
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+FAIL 13: Discarded later card
+FAIL 13: Discarded later card
+FAIL 13: Smithy was not discarded
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+FAIL 21: Smithy was not discarded
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Playing smithy
+FAIL 29: Discarded later card
+FAIL 29: Discarded later card
+FAIL 29: Discarded later card
+FAIL 29: Discarded later card
+FAIL 29: Discarded later card
+FAIL 29: Smithy was not discarded
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Playing smithy
+Attempting to discard illegal card
+FAIL 41: Smithy was not discarded
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+FAIL 49: Discarded later card
+FAIL 49: Discarded later card
+FAIL 49: Discarded later card
+FAIL 49: Discarded later card
+FAIL 49: Discarded later card
+FAIL 49: Discarded later card
+FAIL 49: Smithy was not discarded
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Smithy was not discarded
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Playing smithy
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Discarded later card
+FAIL 61: Smithy was not discarded
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+FAIL 69: Smithy was not discarded
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Playing smithy
+FAIL 77: Smithy was not discarded
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Playing smithy
+FAIL 89: Discarded later card
+FAIL 89: Smithy was not discarded
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Smithy was not discarded
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 35
+Played card was not discarded: 11
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Playing smithy
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Playing smithy
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Playing smithy
+Round: 19
+Round: 20
+Playing smithy
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Playing smithy
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Playing smithy
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Playing smithy
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Playing smithy
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Playing smithy
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Playing smithy
+Round: 55
+Round: 56
+Playing smithy
+Round: 57
+Round: 58
+Playing smithy
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Playing smithy
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Playing smithy
+Round: 71
+Round: 72
+Playing smithy
+Round: 73
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Playing smithy
+Round: 79
+Round: 80
+Playing smithy
+Round: 81
+Round: 82
+Playing smithy
+Round: 83
+Round: 84
+Playing smithy
+Round: 85
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Playing smithy
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Round: 96
+Playing smithy
+Round: 97
+Round: 98
+Playing smithy
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Playing smithy
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Playing smithy
+Round: 36
+Round: 37
+Round: 38
+Playing smithy
+Round: 39
+Round: 40
+Playing smithy
+Round: 41
+Round: 42
+Round: 43
+Playing smithy
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Playing smithy
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Playing smithy
+Round: 59
+Playing smithy
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Playing smithy
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Playing smithy
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+FAIL 13: Discarded later card
+FAIL 13: Discarded later card
+FAIL 13: Smithy was not discarded
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+FAIL 21: Discarded later card
+FAIL 21: Discarded later card
+FAIL 21: Discarded later card
+FAIL 21: Discarded later card
+FAIL 21: Discarded later card
+FAIL 21: Discarded later card
+FAIL 21: Smithy was not discarded
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+FAIL 33: Discarded later card
+FAIL 33: Discarded later card
+FAIL 33: Smithy was not discarded
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Playing smithy
+FAIL 37: Discarded later card
+FAIL 37: Smithy was not discarded
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+Attempting to discard illegal card
+FAIL 49: Smithy was not discarded
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Discarded later card
+FAIL 53: Smithy was not discarded
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Smithy was not discarded
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Round: 76
+Playing smithy
+FAIL 76: Discarded later card
+FAIL 76: Discarded later card
+FAIL 76: Smithy was not discarded
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Smithy was not discarded
+Round: 82
+Playing smithy
+FAIL 82: Discarded later card
+FAIL 82: Discarded later card
+FAIL 82: Discarded later card
+FAIL 82: Smithy was not discarded
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Playing smithy
+Attempting to discard illegal card
+FAIL 89: Smithy was not discarded
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Smithy was not discarded
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 44
+Played card was not discarded: 13
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Playing smithy
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Playing smithy
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Playing smithy
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Playing smithy
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Playing smithy
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Playing smithy
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Playing smithy
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Playing smithy
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Playing smithy
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Playing smithy
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Playing smithy
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Playing smithy
+Round: 36
+Round: 37
+Round: 38
+Playing smithy
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Playing smithy
+Round: 48
+Round: 49
+Round: 50
+Playing smithy
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Playing smithy
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Playing smithy
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Playing smithy
+Round: 87
+Round: 88
+Round: 89
+Playing smithy
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Playing smithy
+Round: 94
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Playing smithy
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Playing smithy
+FAIL 71: Discarded later card
+FAIL 71: Discarded later card
+FAIL 71: Discarded later card
+FAIL 71: Discarded later card
+FAIL 71: Discarded later card
+FAIL 71: Discarded later card
+FAIL 71: Smithy was not discarded
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Playing smithy
+FAIL 86: Smithy was not discarded
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Attempting to discard illegal card
+FAIL 91: Smithy was not discarded
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 6
+Played card was not discarded: 3
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Round: 22
+Round: 23
+Playing smithy
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+Round: 28
+Round: 29
+Playing smithy
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+Round: 34
+Round: 35
+Playing smithy
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Playing smithy
+Round: 40
+Round: 41
+Playing smithy
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Playing smithy
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Playing smithy
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Playing smithy
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Playing smithy
+Round: 73
+Playing smithy
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Playing smithy
+Round: 94
+Playing smithy
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Playing smithy
+FAIL 19: Discarded later card
+FAIL 19: Discarded later card
+FAIL 19: Discarded later card
+FAIL 19: Discarded later card
+FAIL 19: Discarded later card
+FAIL 19: Discarded later card
+FAIL 19: Smithy was not discarded
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Playing smithy
+FAIL 31: Discarded later card
+FAIL 31: Discarded later card
+FAIL 31: Discarded later card
+FAIL 31: Smithy was not discarded
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Playing smithy
+FAIL 39: Discarded later card
+FAIL 39: Discarded later card
+FAIL 39: Discarded later card
+FAIL 39: Smithy was not discarded
+Round: 40
+Round: 41
+Round: 42
+Playing smithy
+FAIL 42: Smithy was not discarded
+Round: 43
+Round: 44
+Round: 45
+Playing smithy
+FAIL 45: Smithy was not discarded
+Round: 46
+Playing smithy
+FAIL 46: Discarded later card
+FAIL 46: Smithy was not discarded
+Round: 47
+Playing smithy
+FAIL 47: Discarded later card
+FAIL 47: Discarded later card
+FAIL 47: Smithy was not discarded
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Playing smithy
+Attempting to discard illegal card
+FAIL 58: Smithy was not discarded
+Round: 59
+Playing smithy
+FAIL 59: Smithy was not discarded
+Round: 60
+Round: 61
+Playing smithy
+FAIL 61: Smithy was not discarded
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+FAIL 69: Smithy was not discarded
+Round: 70
+Playing smithy
+FAIL 70: Smithy was not discarded
+Round: 71
+Playing smithy
+FAIL 71: Smithy was not discarded
+Round: 72
+Playing smithy
+FAIL 72: Smithy was not discarded
+Round: 73
+Playing smithy
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Playing smithy
+FAIL 75: Smithy was not discarded
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+FAIL 79: Smithy was not discarded
+Round: 80
+Round: 81
+Round: 82
+Playing smithy
+Attempting to discard illegal card
+FAIL 82: Smithy was not discarded
+Round: 83
+Playing smithy
+Attempting to discard illegal card
+FAIL 83: Smithy was not discarded
+Round: 84
+Round: 85
+Playing smithy
+FAIL 85: Smithy was not discarded
+Round: 86
+Playing smithy
+FAIL 86: Smithy was not discarded
+Round: 87
+Round: 88
+Round: 89
+Playing smithy
+FAIL 89: Smithy was not discarded
+Round: 90
+Round: 91
+Playing smithy
+FAIL 91: Smithy was not discarded
+Round: 92
+Playing smithy
+Attempting to discard illegal card
+FAIL 92: Smithy was not discarded
+Round: 93
+Round: 94
+Round: 95
+Playing smithy
+FAIL 95: Smithy was not discarded
+Round: 96
+Round: 97
+Round: 98
+Playing smithy
+FAIL 98: Discarded later card
+FAIL 98: Discarded later card
+FAIL 98: Discarded later card
+FAIL 98: Discarded later card
+FAIL 98: Discarded later card
+FAIL 98: Smithy was not discarded
+Round: 99
+Playing smithy
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Discarded later card
+FAIL 99: Smithy was not discarded
+
+ Failure Counts
+Bad discard 2nd Half: 25
+Played card was not discarded: 27
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Playing smithy
+Round: 13
+Round: 14
+Playing smithy
+Round: 15
+Round: 16
+Playing smithy
+Round: 17
+Round: 18
+Playing smithy
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Playing smithy
+Round: 23
+Round: 24
+Playing smithy
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Playing smithy
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Playing smithy
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Playing smithy
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Playing smithy
+Round: 41
+Round: 42
+Playing smithy
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Playing smithy
+Round: 47
+Playing smithy
+Round: 48
+Playing smithy
+Round: 49
+Round: 50
+Playing smithy
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Playing smithy
+Round: 76
+Round: 77
+Playing smithy
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Playing smithy
+Round: 84
+Playing smithy
+Round: 85
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Playing smithy
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Playing smithy
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Playing smithy
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Playing smithy
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Playing smithy
+Round: 49
+Playing smithy
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Playing smithy
+Round: 57
+Round: 58
+Playing smithy
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Playing smithy
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Playing smithy
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Playing smithy
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Playing smithy
+Round: 80
+Round: 81
+Round: 82
+Playing smithy
+Round: 83
+Playing smithy
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Playing smithy
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Playing smithy
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+FAIL 13: Discarded later card
+FAIL 13: Smithy was not discarded
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+FAIL 21: Smithy was not discarded
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+FAIL 33: Smithy was not discarded
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Playing smithy
+FAIL 37: Smithy was not discarded
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Playing smithy
+FAIL 45: Discarded later card
+FAIL 45: Smithy was not discarded
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+FAIL 49: Smithy was not discarded
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Smithy was not discarded
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Playing smithy
+FAIL 77: Discarded later card
+FAIL 77: Discarded later card
+FAIL 77: Discarded later card
+FAIL 77: Discarded later card
+FAIL 77: Discarded later card
+FAIL 77: Smithy was not discarded
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+FAIL 85: Smithy was not discarded
+Round: 86
+Playing smithy
+FAIL 86: Smithy was not discarded
+Round: 87
+Playing smithy
+Attempting to discard illegal card
+FAIL 87: Smithy was not discarded
+Round: 88
+Round: 89
+Playing smithy
+FAIL 89: Smithy was not discarded
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Playing smithy
+FAIL 95: Smithy was not discarded
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 17
+Played card was not discarded: 14
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Playing smithy
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Playing smithy
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Round: 75
+Playing smithy
+Round: 76
+Round: 77
+Playing smithy
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+Round: 82
+Round: 83
+Round: 84
+Playing smithy
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Round: 92
+Round: 93
+Playing smithy
+Round: 94
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Playing smithy
+Round: 98
+Playing smithy
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Playing smithy
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Playing smithy
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Playing smithy
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Playing smithy
+Round: 45
+Playing smithy
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Playing smithy
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Playing smithy
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Playing smithy
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Round: 89
+Playing smithy
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+FAIL 13: Discarded later card
+FAIL 13: Discarded later card
+FAIL 13: Smithy was not discarded
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Attempting to discard illegal card
+FAIL 21: Smithy was not discarded
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+FAIL 33: Smithy was not discarded
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Playing smithy
+FAIL 41: Discarded later card
+FAIL 41: Smithy was not discarded
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Playing smithy
+FAIL 45: Discarded later card
+FAIL 45: Smithy was not discarded
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Playing smithy
+Attempting to discard illegal card
+FAIL 57: Smithy was not discarded
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Smithy was not discarded
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Smithy was not discarded
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+FAIL 85: Discarded later card
+FAIL 85: Smithy was not discarded
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+FAIL 88: Discarded later card
+FAIL 88: Discarded later card
+FAIL 88: Smithy was not discarded
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Playing smithy
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Smithy was not discarded
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Smithy was not discarded
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 28
+Played card was not discarded: 13
+_______________________
+!____________Random Card Test 2 - Smithy__________!
+Testing with 2 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Playing smithy
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Playing smithy
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Playing smithy
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Playing smithy
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Playing smithy
+Round: 69
+Playing smithy
+Round: 70
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Playing smithy
+Round: 74
+Round: 75
+Playing smithy
+Round: 76
+Round: 77
+Playing smithy
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+Round: 82
+Round: 83
+Round: 84
+Playing smithy
+Round: 85
+Playing smithy
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Round: 89
+Round: 90
+Round: 91
+Playing smithy
+Round: 92
+Round: 93
+Playing smithy
+Round: 94
+Round: 95
+Playing smithy
+Round: 96
+Round: 97
+Playing smithy
+Round: 98
+Playing smithy
+Round: 99
+Playing smithy
+
+ Failure Counts
+_______________________
+Testing with 3 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Playing smithy
+Round: 19
+Round: 20
+Round: 21
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Playing smithy
+Round: 31
+Round: 32
+Round: 33
+Round: 34
+Round: 35
+Round: 36
+Playing smithy
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Round: 42
+Round: 43
+Round: 44
+Playing smithy
+Round: 45
+Playing smithy
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Playing smithy
+Round: 54
+Playing smithy
+Round: 55
+Round: 56
+Round: 57
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Playing smithy
+Round: 64
+Round: 65
+Playing smithy
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Playing smithy
+Round: 70
+Playing smithy
+Round: 71
+Playing smithy
+Round: 72
+Round: 73
+Round: 74
+Round: 75
+Playing smithy
+Round: 76
+Playing smithy
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Round: 86
+Round: 87
+Playing smithy
+Round: 88
+Round: 89
+Playing smithy
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Round: 98
+Round: 99
+
+ Failure Counts
+_______________________
+Testing with 4 Players
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Playing smithy
+FAIL 13: Discarded later card
+FAIL 13: Discarded later card
+FAIL 13: Smithy was not discarded
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Round: 20
+Round: 21
+Playing smithy
+Attempting to discard illegal card
+FAIL 21: Smithy was not discarded
+Round: 22
+Round: 23
+Round: 24
+Round: 25
+Round: 26
+Round: 27
+Round: 28
+Round: 29
+Round: 30
+Round: 31
+Round: 32
+Round: 33
+Playing smithy
+FAIL 33: Smithy was not discarded
+Round: 34
+Round: 35
+Round: 36
+Round: 37
+Round: 38
+Round: 39
+Round: 40
+Round: 41
+Playing smithy
+FAIL 41: Discarded later card
+FAIL 41: Smithy was not discarded
+Round: 42
+Round: 43
+Round: 44
+Round: 45
+Playing smithy
+FAIL 45: Discarded later card
+FAIL 45: Smithy was not discarded
+Round: 46
+Round: 47
+Round: 48
+Round: 49
+Round: 50
+Round: 51
+Round: 52
+Round: 53
+Round: 54
+Round: 55
+Round: 56
+Round: 57
+Playing smithy
+Attempting to discard illegal card
+FAIL 57: Smithy was not discarded
+Round: 58
+Round: 59
+Round: 60
+Round: 61
+Round: 62
+Round: 63
+Round: 64
+Round: 65
+Playing smithy
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Discarded later card
+FAIL 65: Smithy was not discarded
+Round: 66
+Round: 67
+Round: 68
+Round: 69
+Round: 70
+Round: 71
+Round: 72
+Round: 73
+Playing smithy
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Discarded later card
+FAIL 73: Smithy was not discarded
+Round: 74
+Round: 75
+Round: 76
+Round: 77
+Round: 78
+Round: 79
+Round: 80
+Round: 81
+Playing smithy
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Discarded later card
+FAIL 81: Smithy was not discarded
+Round: 82
+Round: 83
+Round: 84
+Round: 85
+Playing smithy
+FAIL 85: Discarded later card
+FAIL 85: Smithy was not discarded
+Round: 86
+Round: 87
+Round: 88
+Playing smithy
+FAIL 88: Discarded later card
+FAIL 88: Discarded later card
+FAIL 88: Smithy was not discarded
+Round: 89
+Round: 90
+Round: 91
+Round: 92
+Round: 93
+Playing smithy
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Discarded later card
+FAIL 93: Smithy was not discarded
+Round: 94
+Round: 95
+Round: 96
+Round: 97
+Playing smithy
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Discarded later card
+FAIL 97: Smithy was not discarded
+Round: 98
+Round: 99
+
+ Failure Counts
+Bad discard 2nd Half: 28
+Played card was not discarded: 13
+_______________________

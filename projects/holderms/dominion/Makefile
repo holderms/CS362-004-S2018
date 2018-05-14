@@ -30,6 +30,17 @@ randomtestcard1: randomtestcard1.c dominion.o rngs.o printGame.o
 	gcov -b dominion.c >> randomtestcard1.out
 	cat dominion.c.gcov >> randomtestcard1.out
 
+randomtestcard2: randomtestcard2.c dominion.o rngs.o printGame.o
+	gcc -o randomtestcard2 randomtestcard2.c -g dominion.o rngs.o printGame.o $(CFLAGS)
+	./randomtestcard2 &> randomtestcard2.out
+	gcov -b dominion.c >> randomtestcard2.out
+	cat dominion.c.gcov >> randomtestcard2.out
+
+randomtestadventurer: randomtestadventurer.c dominion.o rngs.o printGame.o
+	gcc -o randomtestadventurer randomtestadventurer.c -g dominion.o rngs.o printGame.o $(CFLAGS)
+	./randomtestadventurer &> randomtestadventurer.out
+	gcov -b dominion.c >> randomtestadventurer.out
+	cat dominion.c.gcov >> randomtestadventurer.out
 # interface.o: interface.h interface.c
 # 	gcc -c interface.c -g  $(CFLAGS)
 #

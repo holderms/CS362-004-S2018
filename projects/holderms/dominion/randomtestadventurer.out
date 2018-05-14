@@ -1,3 +1,62 @@
+!____________Random Card Test 3 - Adventurer__________!
+
+Testing with 2 Players
+FAIL 32: Too many cards discarded
+FAIL 80: Too many cards discarded
+FAIL 82: Too many cards discarded
+FAIL 100: Too many cards discarded
+FAIL 102: Too many cards discarded
+FAIL 118: Too many cards discarded
+FAIL 121: Too many cards discarded
+
+ Failure Counts
+
+Played card was not discarded: 7
+_______________________
+
+Testing with 3 Players
+FAIL 11: Too many cards discarded
+FAIL 15: Too many cards discarded
+FAIL 29: Too many cards discarded
+FAIL 33: Too many cards discarded
+FAIL 51: Too many cards discarded
+FAIL 53: Too many cards discarded
+FAIL 61: Too many cards discarded
+FAIL 64: Too many cards discarded
+FAIL 65: Too many cards discarded
+FAIL 82: Too many cards discarded
+FAIL 94: Too many cards discarded
+FAIL 98: Too many cards discarded
+FAIL 104: Too many cards discarded
+FAIL 142: Too many cards discarded
+
+ Failure Counts
+
+Played card was not discarded: 14
+_______________________
+
+Testing with 4 Players
+FAIL 49: Too many cards discarded
+FAIL 79: Too many cards discarded
+FAIL 84: Too many cards discarded
+FAIL 103: Too many cards discarded
+FAIL 104: Too many cards discarded
+FAIL 117: Too many cards discarded
+FAIL 131: Too many cards discarded
+FAIL 132: Too many cards discarded
+
+ Failure Counts
+
+Played card was not discarded: 8
+_______________________
+
+File 'dominion.c'
+Lines executed:63.75% of 560
+Branches executed:61.15% of 417
+Taken at least once:52.28% of 417
+Calls executed:65.26% of 95
+Creating 'dominion.c.gcov'
+
         -:    0:Source:dominion.c
         -:    0:Graph:dominion.gcno
         -:    0:Data:dominion.gcda
