@@ -1,0 +1,9 @@
+!____________Card Test 2__________!
+!____________smithy__________!
+Before: Player 0  Hand size 5, Deck size 5
+
+Test1 with default hand/deck
+Original Hand:	  13  4  1  4  4
+Current Hand:	  16  4  1  4  4  18  17
+After:  Player 0  Hand size 7
+!_____________________________!
