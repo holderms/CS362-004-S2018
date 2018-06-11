@@ -74,7 +74,7 @@ public class UrlValidatorTest extends TestCase {
 								System.out.println("Expected: " + expected + " Got: " + got);
 								System.out.println("URL " + urlTest);
 								if (expected == false) {
-									System.out.println("False true");
+									System.out.println("-- False VALID");
 
 									
 									System.out.println("False parts: ");
@@ -88,8 +88,8 @@ public class UrlValidatorTest extends TestCase {
 									if (!query[que].valid) System.out.println("Query: " + query[que].item);
 									System.out.println();
 								} else if (expected == true) {
-									System.out.println("\t\tFALSE FAILURE");
-
+									System.out.println("--FALSE FAILURE");
+									System.out.println();
 								}
 							}
 						}
