@@ -40,15 +40,13 @@ public class UrlValidatorTest extends TestCase {
 	}
 	//You need to create more test cases for your Partitions if you need to 
 
+public static void updateMap(HashMap<String, Integer> update, String checkString) {
+		int count = update.containsKey(checkString) ? update.get(checkString) : 0;
+		update.put(checkString, count + 1);
+	}
 	public static void testIsValid()
 	{
 		UrlValidator urlVal = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
-		//		String [] scheme =  {"http://", "ftp://", "3ht://"};
-		//		String [] authority = {"www.google.com", "go.com", "go.ala"};
-		//		String [] port = {":80", "", ":-2"};
-		//		String [] path = {"/something", "", "///"};
-		//		String [] query = {"", "?action=view","garbage//"};
-		//		Boolean [] mix = {true, true, false};
 
 		ResultPair[] scheme = {new ResultPair("http://", true), new ResultPair("ftp://", true), new ResultPair("3ht://", false)};
 		ResultPair [] authority = {new ResultPair("www.google.com", true), new ResultPair("go.com", true), new ResultPair("go.ala", false)};
@@ -56,6 +54,13 @@ public class UrlValidatorTest extends TestCase {
 		ResultPair [] path = {new ResultPair("/something", true), new ResultPair("", true), new ResultPair("///", false)};
 		ResultPair [] query = {new ResultPair("", true), new ResultPair("?action=view", true), new ResultPair("#//garbage//", false)};
 		
+		// Hashmaps count instances where an URL is false when it should have been true. The highest count values are the common elements and
+		// are likely to be causing the failures.
+		HashMap<String, Integer> schemeFalseFail = new HashMap<>();
+		HashMap<String, Integer> authorityFalseFail = new HashMap<>();
+		HashMap<String, Integer> portFalseFail = new HashMap<>();
+		HashMap<String, Integer> pathFalseFail = new HashMap<>();
+		HashMap<String, Integer> queryFalseFail = new HashMap<>();
 		for (int sch = 0; sch < 3; sch ++) {
 			System.out.println("Testing scheme: " + scheme[sch].item);
 			for (int auth = 0; auth < 3; auth ++) {
@@ -90,13 +95,23 @@ public class UrlValidatorTest extends TestCase {
 								} else if (expected == true) {
 									System.out.println("--FALSE FAILURE");
 									System.out.println();
+									updateMap(schemeFalseFail, scheme[sch].item);
+									updateMap(authorityFalseFail, authority[auth].item);
+									updateMap(portFalseFail, port[por].item);
+									updateMap(pathFalseFail, path[pat].item);
+									updateMap(queryFalseFail, query[que].item);
 								}
 							}
 						}
 					}
 				}
 			}
-
+			System.out.println("Counts for false failures:");
+			schemeFalseFail.forEach((k,v)->System.out.println("Count: " + v + "\tScheme " + k));
+			authorityFalseFail.forEach((k,v)->System.out.println("Count: " + v + "\tAuthority " + k));
+			portFalseFail.forEach((k,v)->System.out.println("Count: " + v + "\tPort " + k));
+			pathFalseFail.forEach((k,v)->System.out.println("Count: " + v + "\tPath " + k));
+			queryFalseFail.forEach((k,v)->System.out.println("Count: " + v + "\tQuery " + k));
 		}
 	}
 
