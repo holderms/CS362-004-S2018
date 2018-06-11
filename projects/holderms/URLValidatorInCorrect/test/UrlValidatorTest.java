@@ -9,9 +9,12 @@ import junit.framework.TestCase;
 
 
 
-
 public class UrlValidatorTest extends TestCase {
 
+  public static void main(String[] args) {
+
+    testIsValid();
+  }
 
    public UrlValidatorTest(String testName) {
       super(testName);
@@ -38,9 +41,9 @@ public class UrlValidatorTest extends TestCase {
    }
    //You need to create more test cases for your Partitions if you need to
 
-   public void testIsValid()
+   public static void testIsValid()
    {
-	   //You can use this function for programming based testing
+	   UrlValidator urlVal = new UrlValidator(null, null, allowAllSchemes);
      String []  scheme =  {"http://", "ftp://", "3ht://"};
      String [] authority = {"www.google.com", "go.com", "go.ala"};
      String [] port = {":80", "", ":-2"};
@@ -53,8 +56,20 @@ public class UrlValidatorTest extends TestCase {
          for (int por = 0; por < 3; por ++) {
            for (int pat = 0; pat < 3; pat ++) {
              for (int que = 0; que < 3; que ++) {
-               Boolean result = mix[sch] & mix[auth] & mix[por] & mix[pat] & mix[que];
-               System.out.println("Result: " + result);
+               String urlTest = scheme[sch] + authority[auth] + port[por] + path[pat] + query[que];
+               Boolean got = urlVal.isValid(urlTest);
+               Boolean expected = mix[sch] & mix[auth] & mix[por] & mix[pat] & mix[que];
+
+               if(got != expected) {
+                 System.out.println("Expected: " + expected);
+                 System.out.println("False parts: ");
+                 if (!mix[sch]) System.out.println("Scheme: " + scheme[sch]);
+                 if (!mix[auth]) System.out.println("Authority: " + authority[auth]);
+                 if (!mix[por]) System.out.println("Port: " + port[por]);
+                 if (!mix[pat]) System.out.println("Path: " + path[pat]);
+                 if (!mix[que]) System.out.println("Query: " + query[que]);
+                 System.out.println();
+               }
              }
            }
          }
